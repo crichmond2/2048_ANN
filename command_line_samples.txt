@@ -1,0 +1,5 @@
+./2048 new_structure weights Trainingin encoding Trainingout alpha iterations
+./2048 new_structure.txt weights.txt Data/bestin.txt 2048encoding.txt Data/bestoutput.txt 0.05 300
+./2048 new_structure.txt weights.txt Data/1024in.txt 2048encoding.txt Data/1024output.txt 0.05 300
+./2048 new_structure.txt weights.txt Data/512in.txt 2048encoding.txt Data/512output.txt 0.05 300
+
